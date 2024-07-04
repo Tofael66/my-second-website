@@ -1,0 +1,16 @@
+.firstclass{
+    color:green;
+    background-color:rgb(124, 4, 64);
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid salmon;
+    box-shadow: 10px 10px 20px 30px  rgb(0, 14, 0) ;
+    border-radius: 30px;
+    
+    
+}
+
+.header{
+    text-align: center;
+    color: rgb(34, 202, 48);
+}
